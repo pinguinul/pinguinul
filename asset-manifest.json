@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pinguinul/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pinguinul/static/js/main.213d6267.chunk.js",
+    "main.js.map": "/pinguinul/static/js/main.213d6267.chunk.js.map",
+    "runtime-main.js": "/pinguinul/static/js/runtime-main.67c9f8bb.js",
+    "runtime-main.js.map": "/pinguinul/static/js/runtime-main.67c9f8bb.js.map",
+    "static/js/2.93ebffd1.chunk.js": "/pinguinul/static/js/2.93ebffd1.chunk.js",
+    "static/js/2.93ebffd1.chunk.js.map": "/pinguinul/static/js/2.93ebffd1.chunk.js.map",
+    "static/js/3.c08da0f8.chunk.js": "/pinguinul/static/js/3.c08da0f8.chunk.js",
+    "static/js/3.c08da0f8.chunk.js.map": "/pinguinul/static/js/3.c08da0f8.chunk.js.map",
+    "index.html": "/pinguinul/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pinguinul/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.93ebffd1.chunk.js.LICENSE.txt": "/pinguinul/static/js/2.93ebffd1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pinguinul/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67c9f8bb.js",
+    "static/js/2.93ebffd1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.213d6267.chunk.js"
+  ]
+}
